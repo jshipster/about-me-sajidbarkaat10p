@@ -1,0 +1,9 @@
+header 
+{     
+    background-image: url('../Images/header-image.png');            
+}
+
+ul {
+  list-style: outside disc;
+  margin: 1em 0 1.5em 1.5em;
+}
